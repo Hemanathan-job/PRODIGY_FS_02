@@ -21,5 +21,4 @@ NEXT_PUBLIC_API_URL=
 
 Thirdly, you run **npm run dev**
 
-## Hope you enjoy
-Have fun, leave a star if you like please and any contribution or improvement is welcome.
+
