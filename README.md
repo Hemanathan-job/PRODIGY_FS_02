@@ -1,6 +1,4 @@
-## Preview
-<img alt="preview1" src="public/preview1.png" /> 
-<img alt="preview2" src="public/preview2.png" /> 
+
 
 ## About the project
 This is a secure employee management system done using Next.js, Typescript and MongoDB. For the style I used TailwindCSS. 
