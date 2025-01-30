@@ -17,6 +17,7 @@ First you need to **create a database and add an admin with an email and a passw
 
 Secondly, you must **fill the .env file** with the good environnement variables:
 MONGO_URI=
+
 NEXT_PUBLIC_API_URL=
 
 Thirdly, you run **npm run dev**
